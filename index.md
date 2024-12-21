@@ -15,3 +15,7 @@ var myVar = "Hello, world!";
 def myfunc():
   return value
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] also this one too
